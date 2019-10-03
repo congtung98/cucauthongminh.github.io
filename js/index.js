@@ -126,7 +126,7 @@ var firebaseConfig = {
         }
         else
         {
-          window.location.href = "MainPage.html";
+          window.location.href = "index.html";
         }
       })
     }
